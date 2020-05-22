@@ -1,0 +1,7 @@
+name: IllegalsX
+version: 1.0-RELEASE
+main: me.xnq.illegalsx.IllegalsX
+api-version: "1.15"
+description: Patches bugs and removes illegal items.
+
+depend: [ProtocolLib]

@@ -1,0 +1,21 @@
+illegals:
+  enabled: true
+  enchantment-filter: false
+  enchantment-level: false
+  items:
+    - BARRIER
+    - BEDROCK
+    - COMMAND_BLOCK
+    - CHAIN_COMMAND_BLOCK
+    - REPEATING_COMMAND_BLOCK
+    - STRUCTURE_VOID
+    - SPAWN_EGG
+    - SPAWNER
+    - END_PORTAL_FRAME
+anticheat:
+  enabled: true
+  debug: true
+misc:
+  enabled: true
+  join-messages: false
+  leave-messages: false
